@@ -25,7 +25,7 @@ A Discriminator that learns to detect whether an image is real or generated.
 They train in opposition, improving one another until the generator produces highly realistic images.
 # 🧑‍🎨 Sample Output 
 Generated face images after training on CelebA dataset:
- Sample Output.png 
+ ![Sample Output](sample_output.png)
 
 
 ### 📥 Download CelebA Dataset
