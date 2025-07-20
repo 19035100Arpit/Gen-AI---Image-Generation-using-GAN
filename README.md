@@ -35,3 +35,6 @@ Due to the large size of the dataset, it is **not included** in this repository.
 - Download CelebA from the official site: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 - Extract it to the `data/celeba` folder:
 
+  ✍️ Author
+  Created with ❤️ by Arpit Tripathi M Tech [Artificial Intelligence and Data Science] Vit University 
+
