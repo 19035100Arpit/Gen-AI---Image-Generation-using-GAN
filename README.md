@@ -23,6 +23,8 @@ A Generator that learns to produce fake images.
 A Discriminator that learns to detect whether an image is real or generated.
 
 They train in opposition, improving one another until the generator produces highly realistic images.
+# 🧑‍🎨 Sample Output 
+
 
 ### 📥 Download CelebA Dataset
 Over 200,000 aligned and cropped face images
