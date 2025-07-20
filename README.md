@@ -24,8 +24,10 @@ A Discriminator that learns to detect whether an image is real or generated.
 
 They train in opposition, improving one another until the generator produces highly realistic images.
 
-
-# 📦 CelebA Dataset
+### 📥 Download CelebA Dataset
 Over 200,000 aligned and cropped face images
-https://drive.google.com/drive/folders/1a2HRdShorPfyMtj2OQPaOvgRRj07KSiC?usp=sharing  
+Due to the large size of the dataset, it is **not included** in this repository.
+
+- Download CelebA from the official site: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+- Extract it to the `data/celeba` folder:
 
